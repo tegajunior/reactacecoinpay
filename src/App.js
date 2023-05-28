@@ -155,7 +155,7 @@ function App() {
             <span className="text-sm text-slate-400 mr-2 sm:mr-4">-</span>
             <span className="text-sm text-slate-400 mr-2 sm:mr-4">3456</span>
             <svg
-              className="h-5 w-5 inline float-right mt-1"
+              className="h-5 w-3 sm:w-5 inline float-right mt-1"
               version="1.1"
               id="Layer_1"
               xmlns="http://www.w3.org/2000/svg"
